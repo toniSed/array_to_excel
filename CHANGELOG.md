@@ -1,3 +1,6 @@
+## [1.0.1] - Updated dependencies
+- Updated package dependencies to latest compatible versions.
+
 ## [1.0.0] - Initial release
 - Renamed package to `array_to_excel`.
 - Generate Excel files from arrays of headings and data.
