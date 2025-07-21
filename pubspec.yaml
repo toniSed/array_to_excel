@@ -1,9 +1,9 @@
-name: arrayToExcel
+name: array_to_excel
 description: >-
   A Flutter package to generate Excel files from arrays and allow users to save or share the file on Android, iOS, Web, and Desktop.
 version: 1.0.0
-homepage: https://github.com/yourusername/arrayToExcel
-repository: https://github.com/yourusername/arrayToExcel
+homepage: https://github.com/toniSed/array_to_excel.git
+repository: https://github.com/toniSed/array_to_excel.git
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

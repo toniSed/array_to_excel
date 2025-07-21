@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:arrayToExcel/arrayToExcel.dart';
+import 'package:array_to_excel/array_to_excel.dart';
 
 void main() {
   runApp(const MyApp());

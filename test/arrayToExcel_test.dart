@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:arrayToExcel/arrayToExcel.dart';
+import 'package:array_to_excel/array_to_excel.dart';
 import 'dart:typed_data';
 import 'package:excel/excel.dart';
 
